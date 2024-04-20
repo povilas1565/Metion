@@ -1,4 +1,4 @@
-package com.example.sure_move
+package com.example.metion
 
 import io.flutter.embedding.android.FlutterActivity
 
